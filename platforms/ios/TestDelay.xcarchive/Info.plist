@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/TestDelay.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.hiqo.thalitest</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0.0</string>
+		<key>CFBundleVersion</key>
+		<string>1.0.0</string>
+		<key>SigningIdentity</key>
+		<string>iPhone Developer: Igor Serzhan (GD4L5VT5HU)</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2016-12-16T10:45:15Z</date>
+	<key>DefaultToolchainInfo</key>
+	<dict>
+		<key>DisplayName</key>
+		<string>Xcode 7.3.1 Default</string>
+		<key>Identifier</key>
+		<string>com.apple.dt.toolchain.XcodeDefault</string>
+	</dict>
+	<key>Name</key>
+	<string>TestDelay</string>
+	<key>SchemeName</key>
+	<string>TestDelay</string>
+</dict>
+</plist>
